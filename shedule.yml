@@ -1,0 +1,106 @@
+year: 2021
+month: 7
+opening_time:
+- "11:00 - 14:00"
+- "17:00 - 20:00"
+shifts:
+- date: 2
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 3
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 4
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 5
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 6
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 7
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 8
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 9
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 10
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
+- date: 11
+  slots:
+  - opening_time_index: 0
+    workers:
+    - Max
+    - Maxisme
+  - opening_time_index: 1
+    workers:
+    - Max
+    - Maxisme
